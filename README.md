@@ -2,4 +2,6 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Eva for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Eva ](https://github.com/EvaProk) for the Lighthouse Labs Web Development Bootcamp.
+
+### Testing some markdown changes 
